@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rose Day Celebration</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            background-image: url('https://example.com/single-red-rose.jpg'); /* Replace with the URL of your single red rose image */
+            background-size: cover;
+            background-position: center;
+            background-repeat: no-repeat;
+            color: white; /* Set text color to white for better visibility */
+        }
+        .container {
+            margin-top: 100px;
+        }
+        h1 {
+            color: #ff1493;
+        }
+        .rose {
+            font-size: 36px;
+            color: #ff1493;
+        }
+        .message {
+            margin: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Happy Rose Day!</h1>
+        <p class="rose">🌹❤️</p>
+        <div class="message">
+            <p>Hey Bujii!!, </p>
+            <p>On this Rose Day, each petal symbolizes my admiration for you. Your presence colors my world with joy and warmth. Like a rose in full bloom, your beauty captivates my heart. The red roses reflect the passion that burns for you. In the garden of life, you're my most cherished blossom. Thank you for being my source of love and inspiration. Happy Rose Day, my Bujii. Here's to many more petals of shared laughter and enduring love.</p>
+            <p>Forever Yours, <br> Surya</p>
+        </div>
+    </div>
+</body>
+</html>
